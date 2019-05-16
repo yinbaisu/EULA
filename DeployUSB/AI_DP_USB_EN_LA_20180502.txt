@@ -1,0 +1,50 @@
+SOFTWARE LICENSE AGREEMENT
+
+IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS SOFTWARE LICENSE AGREEMENT (ÅgAGREEMENTÅh) CAREFULLY BEFORE USING THIS SOFTWARE (ÅgSOFTWARE PRODUCTÅh). BY USING ANY FORM OF THIS SOFTWARE PRODUCT, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, THAT YOU UNDERSTAND IT, AND THAT YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT, DO NOT USE THE SOFTWARE PRODUCT. NO CHANGE, AMENDMENT AND/OR MODIFICATION OF ANY PROVISION OF THIS AGREEMENT OR NO NEW LICENSE AGREEMENT SHALL BE VALID UNLESS IT IS AGREED UPON BY NETJAPAN WITH ITS PRIOR WRITTEN CONSENT.
+
+1. GRANT OF LICENSE:
+By loading the SOFTWARE PRODUCT into RAM, you shall be deemed to have used the SOFTWARE PRODUCT. There are four (4) license types as follows for this SOFTWARE PRODUCT. Please confirm the license details as specified in your license certificate(s) or any other written forms.
+
+1.1 DEPLOYMENT LICENSE (Apply to ActiveImage Deploy USB)
+You may use the SOFTWARE PRODUCT to create USB boot environment media (Deployment USB Memory) that is useful for both backup and recovery of system disks. By using the created USB boot environment media, you may create backup images of hard disks of the computer and deploy them to your other computers or the computers that you distribute or lease to third parties (ÅgDEPLOYMENTÅh). The number of licenses required must be equal to or exceed the number of times you make the DEPLOYMENT as specified above.
+In the event that you need to make the DEPLOYMENT beyond the number of times permitted by the purchased licenses, ensure that you have purchased the additional licenses as required. The number of valid purchased licenses is stated on your licensing document.
+
+1.2 DEPLOYMENT PLUS LICENSE (Apply to ActiveImage Deploy USB Plus)
+In addition to the section 1.1 above, you may use the SOFTWARE PRODUCT to create the licensed number of USB boot environment media with a dedicated recovery module (Restore USB Memory) and deliver the USB boot environment media including the created backup images and the dedicated recovery module with the computers together.
+
+1.3 EVALUATION LICENSE 
+In the event you obtained a trial or evaluation version of the SOFTWARE PRODUCT, it will come with an evaluation license that makes you do the DEPLOYMENT with certain restricted functions for internal noncommercial purposes, solely to evaluate the suitability of the SOFTWARE PRODUCT for your needs. After the evaluation, to use the functions that are free from restrictions as mentioned above, you should purchase a deployment license as specified in section 1-1). If you do not purchase the deployment license, this AGREEMENT and all the rights in this AGREEMENT will terminate automatically. You have to destroy the SOFTWARE PRODUCT and the evaluation license that you have obtained.
+
+1.4 NOT-FOR-RESALE (ÅgNFRÅh) LICENSE 
+An NFR license permits you to use the SOFTWARE PRODUCT for promotional purposes. This license may not be copied, distributed, transferred, leased or resold.
+
+2. GENERAL LICENSE RESTRICTIONS:
+You agree to the licensing restrictions as follows.
+2.1 You may not sell, lease, license, sub-license or otherwise trade the SOFTWARE PRODUCT and/or the related documents.
+2.2 You may not lend, lease, grant a security interest, or transfer other privilege or ownership of the SOFTWARE PRODUCT or the copies thereof.
+2.3 You may not decompile, disassemble, or reverse engineer the SOFTWARE PRODUCT.
+
+3. COPYRIGHT:
+All titles, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by NETJAPAN and protected by Japanese and international copyright laws. You may not copy or disclose any part of the SOFTWARE PRODUCT unless otherwise expressly set forth in this AGREEMENT. You agree to supervise the authorized users operation or use of the SOFTWARE PRODUCT pursuant to all the terms and conditions of this AGREEMENT.
+
+4. LIMITATION OF LIABILITY AND NO WARRANTIES:
+NETJAPAN expressly disclaims any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT and the accompanying files are provided 'As Is' without any express or implied warranty of any kind, regardless of laws and regulations, including but not limited to any warranties of rights, fitness for a particular purpose, or non-infringement. Any information contained in advertising media or packaging of the SOFTWARE PRODUCT is provided for descriptive purpose only and NETJAPAN makes no warranties, representations, or agreements based on the information therein. Your legal rights are stipulated in this AGREEMENT and LIMITATION OF LIABILITY only. 
+In no event does NETJAPAN warrant or make any representation that the SOFTWARE PRODUCT will meet your requirements, and the operation of the SOFTWARE PRODUCT will be safely uninterrupted or error-free. In consideration of the fact that the system environment where the SOFTWARE PRODUCT is used (including without limitation, hard disk drives, hard disk configuration on individual computers, installed software, and OSes on which software is installed) may change. NETJAPAN does not warrant or makes any representation regarding the results obtained from the use of the SOFTWARE PRODUCT, accuracy or reliability of any information obtained from the SOFTWARE PRODUCT, or the possibility of correction of defects of the SOFTWARE PRODUCT.
+In order to ensure that you properly perform data processing and backup procedures, you must conduct exhaustive tests on the SOFTWARE PRODUCT by using non-critical data. The entire risk is assumed by you in the event of installing and running software on individual devices or in the judgment of individual objectives for running the SOFTWARE PRODUCT on individual devices. Under no circumstances including negligence, shall NETJAPAN be liable to you under this AGREEMENT for any special, incidental, consequential, indirect damages (including data loss, business interruption, loss of business profit, asset loss, and the like), arising out of installation or the use of the SOFTWARE PRODUCT even if NETJAPAN has been advised of the possibility of such damages. In no event shall NETJAPAN accept claims for such damages from other individual persons or group. This LIMITATION OF LIABILITY shall be applied regardless whether the basic objectives of the limited remedy are achieved or not. In no event shall NETJAPAN's total liability to you based on this AGREEMENT exceed the amount paid by you for a license fee / the SOFTWARE PRODUCT for one year until said liability has accrued.
+
+5. GOVERNING LAW:
+This AGREEMENT and all disputes arising out of or relating to this AGREEMENT or its subject matter will be governed by the laws of Japan.
+
+6. EXPORT RESTRICTIONS:
+You agree that the SOFTWARE PRODUCT is subject to the software export regulations of United States and Japan. You agree that it is your responsibility to comply with any international laws and regulations (including, but not limited to the Export Administration Regulations of the United States and restrictions for you, for the use of the SOFTWARE PRODUCT by you, for importing countries, imposed by the United States, Japan and other governmental organizations).
+
+7. CONTACT INFORMATION:
+Should you have any questions concerning this AGREEMENT, please feel free to contact us at:
+Website: www.netjapan.com
+Office Address: NetJapan, Inc.
+8 Kanda-Konya'cho, Chiyoda-ku, Tokyo 101-0035
+
+The SOFTWARE PRODUCT and the related documentation are proprietary products of NetJapan, Inc., and are copyrighted to the company.
+Copyright(c)2018 NetJapan, Inc. All Rights Reserved Worldwide.
+
+AI_DP_USB_EN_LA_20180502

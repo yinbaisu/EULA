@@ -1,0 +1,40 @@
+END USER LICENSE AGREEMENT
+
+IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS END USER LICENSE AGREEMENT (ÅgEULAÅh) CAREFULLY BEFORE USING THE DEDICATED RECOVERY MODULE (ÅgSOFTWARE PRODUCTÅh). BY USING THIS SOFTWARE PRODUCT, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS EULA, THAT YOU UNDERSTAND IT, AND THAT YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS EULA, DO NOT USE THE SOFTWARE PRODUCT AND DISPOSE OF THE SOFTWARE INCLUDING OTHER COMPONENTS, OR OTHERWISE RETURN THEM INTACT TO THE PLACE YOU OBTAINED THEM. 
+
+1. COPYRIGHT:
+All titles, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by NetJapan and protected by Japanese and international copyright laws. You may not copy or disclose any part of the SOFTWARE PRODUCT unless otherwise expressly set forth in this EULA. You agree to supervise the authorized usersÅf operation or use of the SOFTWARE PRODUCT pursuant to all the terms and conditions of this EULA. 
+
+2. GRANT OF LICENSE:
+You are hereby granted the following limited end-user license to operate and use the SOFTWARE PRODUCT.
+You may use the SOFTWARE PRODUCT solely for the purpose of recovering the computer system by using the created backup image files.
+You agree to use the SOFTWARE PRODUCT on the specific computer systems with which the created backup image files are provided.
+
+3. GENERAL LICENSE RESTRICTIONS:
+You agree to the licensing restrictions as follows.
+a.You may not use, copy, modify, amend, transfer the SOFTWARE PRODUCT electronically or by any other means.
+b.You may not reverse engineer the SOFTWARE PRODUCT or in any way translate, reverse program, disassemble, or decompile the SOFTWARE PRODUCT.
+
+4. TECHNICAL SUPPORT:
+NETJAPAN does not provide the technical support for the SOFTWARE PRODUCT. Please contact the supplier from whom you purchased the specific computer system provided with the SOFTWARE PRODUCT for technical support.
+ 
+5. LIMITED WARRANTY: 
+NETJAPAN does not provide any warranty directly to you.
+NETJAPAN warrants solely to the suppliers of the SOFTWARE PRODUCT that the SOFTWARE PRODUCT will operate in accordance with its related documents. 
+
+6. LIMITATION OF LIABILITY and NO WARRANTIES:
+Under no circumstances, shall NetJapan and the suppliers have liability to you for any damages (including, but not limited to,loss of business profit, business interruption, loss of business data, or any other financial loss, and the like), arising out of the use or inability to use the SOFTWARE PRODUCT even if NetJapan has been advised of the possibility of such damages.
+
+7. GOVERNING LAW:
+This EULA and all disputes arising out of or relating to this EULA or its subject matter will be governed by the laws of Japan. 
+
+8. CONTACT INFORMATION:
+Should you have any questions concerning this EULA, please feel free to contact us at:
+Website: www.netjapan.com
+Office Address: NetJapan, Inc.
+8 Kanda-Kon'yacho, Chiyoda-ku, Tokyo 101-0035
+
+The SOFTWARE PRODUCT and the related documentation are proprietary products of NetJapan, Inc., and are copyrighted to the company.
+Copyright(c) 2018 NetJapan, Inc. All Rights Reserved Worldwide.
+
+AI_DP_USB_RC_EN_EULA_20180228

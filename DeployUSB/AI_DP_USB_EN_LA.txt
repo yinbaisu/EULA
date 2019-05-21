@@ -1,12 +1,12 @@
 SOFTWARE LICENSE AGREEMENT
 
-IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS SOFTWARE LICENSE AGREEMENT (갾AGREEMENT갿) CAREFULLY BEFORE USING THIS SOFTWARE (갾SOFTWARE PRODUCT갿). BY USING ANY FORM OF THIS SOFTWARE PRODUCT, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, THAT YOU UNDERSTAND IT, AND THAT YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT, DO NOT USE THE SOFTWARE PRODUCT. NO CHANGE, AMENDMENT AND/OR MODIFICATION OF ANY PROVISION OF THIS AGREEMENT OR NO NEW LICENSE AGREEMENT SHALL BE VALID UNLESS IT IS AGREED UPON BY NETJAPAN WITH ITS PRIOR WRITTEN CONSENT.
+IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS SOFTWARE LICENSE AGREEMENT (혖gAGREEMENT혖h) CAREFULLY BEFORE USING THIS SOFTWARE (혖gSOFTWARE PRODUCT혖h). BY USING ANY FORM OF THIS SOFTWARE PRODUCT, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, THAT YOU UNDERSTAND IT, AND THAT YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT, DO NOT USE THE SOFTWARE PRODUCT. NO CHANGE, AMENDMENT AND/OR MODIFICATION OF ANY PROVISION OF THIS AGREEMENT OR NO NEW LICENSE AGREEMENT SHALL BE VALID UNLESS IT IS AGREED UPON BY NETJAPAN WITH ITS PRIOR WRITTEN CONSENT.
 
 1. GRANT OF LICENSE:
 By loading the SOFTWARE PRODUCT into RAM, you shall be deemed to have used the SOFTWARE PRODUCT. There are four (4) license types as follows for this SOFTWARE PRODUCT. Please confirm the license details as specified in your license certificate(s) or any other written forms.
 
 1.1 DEPLOYMENT LICENSE (Apply to ActiveImage Deploy USB)
-You may use the SOFTWARE PRODUCT to create USB boot environment media (Deployment USB Memory) that is useful for both backup and recovery of system disks. By using the created USB boot environment media, you may create backup images of hard disks of the computer and deploy them to your other computers or the computers that you distribute or lease to third parties (갾DEPLOYMENT갿). The number of licenses required must be equal to or exceed the number of times you make the DEPLOYMENT as specified above.
+You may use the SOFTWARE PRODUCT to create USB boot environment media (Deployment USB Memory) that is useful for both backup and recovery of system disks. By using the created USB boot environment media, you may create backup images of hard disks of the computer and deploy them to your other computers or the computers that you distribute or lease to third parties (혖gDEPLOYMENT혖h). The number of licenses required must be equal to or exceed the number of times you make the DEPLOYMENT as specified above.
 In the event that you need to make the DEPLOYMENT beyond the number of times permitted by the purchased licenses, ensure that you have purchased the additional licenses as required. The number of valid purchased licenses is stated on your licensing document.
 
 1.2 DEPLOYMENT PLUS LICENSE (Apply to ActiveImage Deploy USB Plus)
@@ -15,7 +15,7 @@ In addition to the section 1.1 above, you may use the SOFTWARE PRODUCT to create
 1.3 EVALUATION LICENSE 
 In the event you obtained a trial or evaluation version of the SOFTWARE PRODUCT, it will come with an evaluation license that makes you do the DEPLOYMENT with certain restricted functions for internal noncommercial purposes, solely to evaluate the suitability of the SOFTWARE PRODUCT for your needs. After the evaluation, to use the functions that are free from restrictions as mentioned above, you should purchase a deployment license as specified in section 1-1). If you do not purchase the deployment license, this AGREEMENT and all the rights in this AGREEMENT will terminate automatically. You have to destroy the SOFTWARE PRODUCT and the evaluation license that you have obtained.
 
-1.4 NOT-FOR-RESALE (갾NFR갿) LICENSE 
+1.4 NOT-FOR-RESALE (혖gNFR혖h) LICENSE 
 An NFR license permits you to use the SOFTWARE PRODUCT for promotional purposes. This license may not be copied, distributed, transferred, leased or resold.
 
 2. GENERAL LICENSE RESTRICTIONS:

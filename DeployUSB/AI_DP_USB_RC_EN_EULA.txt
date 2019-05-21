@@ -1,9 +1,9 @@
 END USER LICENSE AGREEMENT
 
-IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS END USER LICENSE AGREEMENT (갾EULA갿) CAREFULLY BEFORE USING THE DEDICATED RECOVERY MODULE (갾SOFTWARE PRODUCT갿). BY USING THIS SOFTWARE PRODUCT, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS EULA, THAT YOU UNDERSTAND IT, AND THAT YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS EULA, DO NOT USE THE SOFTWARE PRODUCT AND DISPOSE OF THE SOFTWARE INCLUDING OTHER COMPONENTS, OR OTHERWISE RETURN THEM INTACT TO THE PLACE YOU OBTAINED THEM. 
+IMPORTANT: PLEASE READ THE TERMS AND CONDITIONS OF THIS END USER LICENSE AGREEMENT (혖gEULA혖h) CAREFULLY BEFORE USING THE DEDICATED RECOVERY MODULE (혖gSOFTWARE PRODUCT혖h). BY USING THIS SOFTWARE PRODUCT, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS EULA, THAT YOU UNDERSTAND IT, AND THAT YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS EULA, DO NOT USE THE SOFTWARE PRODUCT AND DISPOSE OF THE SOFTWARE INCLUDING OTHER COMPONENTS, OR OTHERWISE RETURN THEM INTACT TO THE PLACE YOU OBTAINED THEM. 
 
 1. COPYRIGHT:
-All titles, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by NetJapan and protected by Japanese and international copyright laws. You may not copy or disclose any part of the SOFTWARE PRODUCT unless otherwise expressly set forth in this EULA. You agree to supervise the authorized users갽 operation or use of the SOFTWARE PRODUCT pursuant to all the terms and conditions of this EULA. 
+All titles, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by NetJapan and protected by Japanese and international copyright laws. You may not copy or disclose any part of the SOFTWARE PRODUCT unless otherwise expressly set forth in this EULA. You agree to supervise the authorized users혖f operation or use of the SOFTWARE PRODUCT pursuant to all the terms and conditions of this EULA. 
 
 2. GRANT OF LICENSE:
 You are hereby granted the following limited end-user license to operate and use the SOFTWARE PRODUCT.
